@@ -23,4 +23,4 @@ python main.py
 
 ## Author
 
-Numaan Rashid
+Numan Rashid
